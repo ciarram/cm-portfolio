@@ -1,4 +1,12 @@
+
 .port-img{
     width: 550px;
     height: 400px;
+}
+#crystal-description{
+    width: 40%;
+}
+#crystals{
+    float: right;
+    margin-right: 100px;
 }
